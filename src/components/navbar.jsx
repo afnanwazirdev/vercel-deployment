@@ -8,6 +8,7 @@ function Navbar() {
         <li>About</li>
         <li>Services</li>
         <li>Contact</li>
+        <li>button</li>
       </ul>
     </nav>
   );
